@@ -48,7 +48,7 @@ const Login = ({ switchToSignup }) => {
           <div className="login-logo-icon">
             <i className="fas fa-shield-alt"></i>
           </div>
-          <div className="login-logo-text">DataTrust Nigeria</div>
+          <div className="login-logo-text">DataTrust</div>
         </div>
         <p className="login-tagline">Advanced Data Protection Platform</p>
       </div>

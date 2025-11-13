@@ -16,7 +16,7 @@ function ProtectedRoute({ children }) {
     return (
       <div className="loading-screen">
         <div className="loading-spinner"></div>
-        <p>Loading DataTrust Nigeria...</p>
+        <p>Loading DataTrust...</p>
       </div>
     );
   }
@@ -31,7 +31,7 @@ function PublicRoute({ children }) {
     return (
       <div className="loading-screen">
         <div className="loading-spinner"></div>
-        <p>Loading DataTrust Nigeria...</p>
+        <p>Loading DataTrust...</p>
       </div>
     );
   }
