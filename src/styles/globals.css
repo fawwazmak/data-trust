@@ -1078,6 +1078,7 @@ body {
     overflow: hidden;
 }
 
+
 .health-score-card::before {
     content: '';
     position: absolute;
