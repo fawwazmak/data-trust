@@ -1,4 +1,3 @@
-// src/pages/LoginPage.jsx
 import { useState } from 'react';
 import Login from '../components/auth/Login';
 import Signup from '../components/Auth/Signup';
