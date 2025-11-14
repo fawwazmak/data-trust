@@ -2,6 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Layout from './components/layout/Layout';
+
+
 import DashboardPage from './pages/DashboardPage';
 import ConsentPage from './pages/ConsentPage';
 import LoginPage from './pages/LoginPage';
